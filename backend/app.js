@@ -7,7 +7,7 @@ const cors = require("cors");
 const path = require("path");
 
 app.use(cors({
-  origin: 'http://54.95.39.75',
+  origin: 'http://43.206.123.127',
   credentials: true
 }));
 
