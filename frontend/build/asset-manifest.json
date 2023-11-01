@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8775de6d.css",
+    "main.js": "/static/js/main.bd525e46.js",
+    "static/js/787.a7bdba91.chunk.js": "/static/js/787.a7bdba91.chunk.js",
+    "static/media/eco.gif": "/static/media/eco.58c7f31a575e583c2924.gif",
+    "static/media/350.jpg": "/static/media/350.bd395318b675296e6207.jpg",
+    "static/media/logo.png": "/static/media/logo.520f4fef3e8eb96c0b0f.png",
+    "static/media/Baner.jpg": "/static/media/Baner.38d89f240d4b35fc8325.jpg",
+    "static/media/organic.png": "/static/media/organic.8c87f123d76dbfae65d2.png",
+    "static/media/visa.jpg": "/static/media/visa.9f9237fdf54bfd391c03.jpg",
+    "static/media/healthcare.png": "/static/media/healthcare.106172eb1d57cfd2a396.png",
+    "static/media/fresh.png": "/static/media/fresh.f9b1130193f3ca59b641.png",
+    "static/media/check-mark.png": "/static/media/check-mark.5042ea7d376a4f3adc06.png",
+    "static/media/da-dang-ky.png": "/static/media/da-dang-ky.4beff0d90e02a7eee6df.png",
+    "index.html": "/index.html",
+    "main.8775de6d.css.map": "/static/css/main.8775de6d.css.map",
+    "main.bd525e46.js.map": "/static/js/main.bd525e46.js.map",
+    "787.a7bdba91.chunk.js.map": "/static/js/787.a7bdba91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8775de6d.css",
+    "static/js/main.bd525e46.js"
+  ]
+}

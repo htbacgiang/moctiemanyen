@@ -1,0 +1,36 @@
+{
+  "name": "bacgiangeco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": "18.10.0"
+  },
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "nodemon babel-node server.js",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false"
+  },
+  "author": "shahriar Sajeeb",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-loader": "^9.1.2",
+    "babel-node": "^0.0.1-security",
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "js-cookie": "^3.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0",
+    "mongoose-slug-generator": "^1.0.4",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.22",
+    "slugify": "^1.6.6",
+    "stripe": "^12.0.0"
+  }
+}
