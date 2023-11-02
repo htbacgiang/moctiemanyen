@@ -17,7 +17,7 @@ const BlogsPage = () => {
   const { allBlogs, isLoading, error } = useSelector((state) => state.blogs);
   const [currentPage, setCurrentPage] = useState(1);
   const [data, setData] = useState([]);
-  const itemsPerPage = 3; // Number of items to display per page
+  const itemsPerPage = 4; // Number of items to display per page
 
   useEffect(() => {
     dispatch(getAllBlogs());

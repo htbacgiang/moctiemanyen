@@ -35,7 +35,7 @@ const BlogsPage = () => {
       const sortedBlogs = allBlogs
         .slice()
         .sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt))
-        .slice(0, 3);
+        .slice(0, 4);
       setData(sortedBlogs);
     }
   }, [allBlogs]);

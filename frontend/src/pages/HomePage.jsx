@@ -29,9 +29,6 @@ const HomePage = () => {
              <span className='section-heading'> TIỆM TRÀ AN YÊN</span>
              </Link>
             <b></b>
-            <p className=''>
-              Kiến thức sống xanh, sống sạch, sống heathy dành cho bạn, mỗi ngày một khoẻ hơn
-            </p>
           </div>
         </div>
         </div>

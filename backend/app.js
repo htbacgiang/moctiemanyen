@@ -7,6 +7,7 @@ const cors = require("cors");
 const path = require("path");
 
 app.use(cors({
+  // origin: 'http://localhost:3000',
   origin: 'http://43.206.123.127',
   credentials: true
 }));

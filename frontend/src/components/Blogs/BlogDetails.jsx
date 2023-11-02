@@ -45,14 +45,14 @@ const BlogDetails = ({ data }) => {
                   </li>
                   <li>
                     <a>
-                      <i class="fa fa-user"></i>by Bắc Giang Eco
+                      <i class="fa fa-user"></i>by Mộc tiệm An Yên
                     </a>
                   </li>
                 </ul>
               </div>
 
               <div class="post-description">
-                <h3>{data.name}</h3>
+                <h3 className="">{data.name}</h3>
               </div>
               <span
                 className="content-blog"
@@ -60,9 +60,9 @@ const BlogDetails = ({ data }) => {
                   __html: data.description,
                 }}
               ></span>
-              <Link to="/chuyen-farm-ke" className="back-to-blog"> 
+              <Link to="/chuyen-cua-tra" className="back-to-blog"> 
               <MdOutlineArrowBack className="mr-2"/>
-              <h3>Quay lại chuyện của farm </h3>
+              <h3>Quay lại chuyện của trà </h3>
               </Link>
             </section>
           </>
